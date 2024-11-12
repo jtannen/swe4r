@@ -4,6 +4,7 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: clean_code
+- file: modularity
+- file: dont_repeat_yourself
+- file: managing_data
